@@ -9,4 +9,4 @@ Credit: Global Map of Togo © ISCGM/Direction General of Cartography - DGC Togo"
 
 Contact: Direction General of Cartography - DGC Togo.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/togo.png)
+E-mail: ![email](email.png)
